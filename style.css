@@ -1,0 +1,115 @@
+* {
+
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-image: url(./Images/guilloche-background-grid-for-certificate-vector-47431130.jpg);
+    width: 75%;
+    height: 100%;
+    margin: auto;
+    border: 15px rgb(175, 175, 32) dashed;
+    background-color: transparent;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5), 0 0 8px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.img {
+    display: flex;
+
+}
+
+.image {
+    height: 100px;
+    margin: 35px 0px 0px 100px;
+
+}
+
+.image1 {
+    height: 100px;
+    margin: 45px 0px 0px 10px;
+
+
+}
+
+.image2 {
+    height: 100px;
+    margin-top: 25px;
+}
+
+.image3 {
+    height: 100px;
+    margin: 25px 0px 0px 145px;
+}
+
+.blank {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(228, 228, 41);
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    position: relative;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+}
+
+.certificate-name {
+    border-top: 2px outset grey;
+    margin: auto;
+    width: 90%;
+    margin-top: 80px;
+    font-size: 23px;
+
+}
+
+
+.certificate-name {
+    border-bottom: 5px inset grey;
+    border-radius: 60%;
+    margin: auto;
+    width: 90%;
+    margin-top: 80px;
+    font-size: 23px;
+
+}
+
+.text {
+    text-align: center;
+    color: rgb(114, 114, 10);
+}
+
+.styling {
+    display: flex;
+    border-bottom: 2px dashed black;
+    width: 90%;
+    margin: auto;
+
+}
+
+.award {
+    margin-left: 40px;
+    text-align: center;
+}
+
+.name {
+    margin-left: 150px;
+    text-align: center;
+}
+
+.sign {
+    height: 200px;
+    width: 200px;
+}
+
+.head {
+    color: rgb(228, 228, 41);
+    margin-top: -60px;
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
